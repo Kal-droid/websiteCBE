@@ -2,4 +2,4 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Kal-droid/websiteCBE)
 ## My Project
-[View the project on GitHub](https://stackblitz.com/~/github.com/Kal-droid/websiteCBE)
+[View the project on GitHub](https://github.com/Kal-droid/websiteCBE.git)
